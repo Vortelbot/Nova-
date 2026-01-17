@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of Novahosting Panel",
+  "description": "Enterprise-grade Discord bot hosting panel with high-performance nodes and AI-powered management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
